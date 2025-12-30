@@ -4,14 +4,6 @@
 
 Quantum-AI-Bio Convergent Security for the Post-Quantum Era
 
-<div align="center">https://img.shields.io/badge/License-MIT-blue.svg
-https://img.shields.io/badge/Rust-1.70%2B-orange.svg
-https://img.shields.io/badge/Python-3.10%2B-blue.svg
-https://img.shields.io/badge/Quantum-Enabled-green.svg
-https://img.shields.io/badge/AI-Integrated-red.svg
-https://img.shields.io/badge/Build-Passing-brightgreen.svg
-https://img.shields.io/badge/Docs-Comprehensive-blue.svg
-https://img.shields.io/github/stars/TriformCrypto/Triform-System?style=social
 
 The world's first self-adaptive, quantum-resistant, and intelligently evolving cryptographic ecosystem
 
@@ -364,7 +356,6 @@ For research partnerships, contact: research@triformcrypto.com
 
 Advancing the frontiers of artificial intelligence and quantum computing
 
-https://img.shields.io/badge/DeepSeek_AI-Research_Technology-blue.svg
 
 </div>📈 Roadmap
 
@@ -417,9 +408,6 @@ The Triform Cryptographic System aims to:
 
 <div align="center">Join us in building the future of security!
 
-https://img.shields.io/github/stars/TriformCrypto/triform-system?style=social
-https://img.shields.io/github/forks/TriformCrypto/triform-system?style=social
-https://img.shields.io/github/watchers/TriformCrypto/triform-system?style=social
 
 "Securing the quantum future, one algorithm at a time."
 
